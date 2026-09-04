@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+outputs/
+wh6_rank.png
+wh6_words.txt
+wh6_pool.txt
+*_signal_*.md

@@ -1,0 +1,4 @@
+interface:
+  display_name: "证券期货混沌趋势扫描"
+  short_description: "新浪互联网数据 + 热门量价候选 + 混沌趋势 Top 榜"
+  default_prompt: "Use $securities-futures-chaos to build a daily hot candidate pool (top-50 A-share volume, futures top-5 estimated fund inflow and outflow), then apply Trading Chaos fractals/alligator/AO/AC to list the strongest rising and falling futures and top A-share uptrends."

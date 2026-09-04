@@ -1,0 +1,19 @@
+{
+  "data_source": "internet",
+  "stock_markets": ["SHSE", "SZSE", "BJSE"],
+  "stock_rank_field": "volume",
+  "stock_limit": 50,
+  "future_markets": ["CFFEX", "SHFE", "DCE", "CZCE", "INE", "GFEX"],
+  "min_bars": 120,
+  "min_amount_yi": 0.5,
+  "min_vol_lots": 1000,
+  "min_oi_lots": 800,
+  "top": 3,
+  "futures_mode": "main",
+  "futures_pool_limit": 5,
+  "futures_include_outflow": true,
+  "show_stock_bear": false,
+  "max_workers": 8,
+  "timeout": 20,
+  "date": null
+}
